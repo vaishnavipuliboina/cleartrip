@@ -1,0 +1,11 @@
+<suite name="CleartripAutomationSuite">
+
+ <test name="CleartripTest">
+
+   <classes>
+     <class name="com.cleartrip.tests.CleartripTest"/>
+   </classes>
+
+ </test>
+
+</suite>
